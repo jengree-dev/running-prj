@@ -8,7 +8,7 @@ The layout is built with **CSS Flexbox**, and interactivity is added using **jQu
 - Responsive layout with **CSS Flexbox**
 - Clean structure with **HTML/CSS**
 - Interactive elements with **JavaScript (jQuery)**
-- Image gallery implemented with **jQuery SheetSlider plugin**
+- Image gallery implemented with **SheetSlider** (a pure CSS slider with no dependencies)
 - Layout and visual design created from scratch, with color palette selected using [Gradients.app](http://gradients.app) for a harmonious look
 - Can be used as an example project for learning purposes
 
