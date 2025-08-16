@@ -19,7 +19,7 @@ The layout is built with **CSS Flexbox**, and interactivity is added using **jQu
 - JavaScript (jQuery + SheetSlider plugin)
 
 ## Screenshot
-![Project Screenshot](https://jengree-dev.github.io/running-prj/img/prj-screenshot.png)
+[Project Screenshot](https://jengree-dev.github.io/running-prj/img/prj-screenshot.png)
 
 ## Live Demo
 [View on GitHub Pages](https://jengree-dev.github.io/running-prj/)
