@@ -6,6 +6,7 @@ The layout is built with **CSS Flexbox**, and interactivity is added using **jQu
 
 ## Features
 - Responsive layout with **CSS Flexbox**
+- Adaptive design implemented with **CSS media queries**
 - Clean structure with **HTML/CSS**
 - Interactive elements with **JavaScript (jQuery)**
 - Image gallery implemented with **SheetSlider** (a pure CSS slider with no dependencies)
