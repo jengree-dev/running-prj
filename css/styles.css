@@ -112,11 +112,11 @@ h2 {
 	}
 }
 .flexy .img1 {
-	background: url(img/run1.jpg);
+	background: url(../img/run1.jpg);
 	background-size: cover;
 }
 .flexy .img2 {
-	background: url(img/run2.jpg);
+	background: url(../img/run2.jpg);
 	background-size: cover;
 }
 .flexy .txt {
